@@ -17,6 +17,7 @@ public class ExampleWednesday {
     public static void main(String[] args) 
     {
         System.out.println("learning pushijk");
+        System.out.println("second");
     }
     
 }
