@@ -18,6 +18,7 @@ public class ExampleWednesday {
     {
         System.out.println("learning pushijk");
         System.out.println("second");
+        System.out.println("third");
     }
     
 }
